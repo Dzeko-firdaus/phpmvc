@@ -1,2 +1,2 @@
 # phpmvc
-Tugas Mata Kuliaj Pengembangan Layanan Web - MVC (Model-View-Controller)
+Tugas Mata Kuliah Pengembangan Layanan Web - MVC (Model-View-Controller)
